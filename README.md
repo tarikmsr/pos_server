@@ -60,11 +60,9 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 
  **1- Order Management:**
 <p align="center">
-<img src="https://github.com/user-attachments/assets/41a31824-1700-4bc5-ac96-299bd5d46cf9"  width="350"  >
+<img src="https://github.com/user-attachments/assets/3cf2a0ec-4f96-4281-b299-c10ae00e14e6"  width="350"  >
 <img src="https://github.com/user-attachments/assets/aaf62fc0-223e-43b8-b68e-e551535bc9bb"  width="350"  >
 </p>
-
-
 
 
 **2- Menu Integration:**
@@ -82,6 +80,8 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/da5bae76-9314-495a-8b72-c30e3cc6999c"  width="350"  >
 <img src="https://github.com/user-attachments/assets/affff866-18a2-4030-a30c-38d4bbe5d7d1"  width="350"  >
+<img src="https://github.com/user-attachments/assets/03c0d227-6ca5-49c9-8845-3c5761d825c8"  width="350"  >
+
 </p>
 
 **4- Order Tracking:**
@@ -108,14 +108,13 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 </p>
 
 
-**8- Offline Functionality:**
-
-
-**10- Staff Profiles:**
+**10- Staff authentification:**
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b5b4b36b-40e9-42db-8235-007cb945c622"  width="350"  >
 <img src="https://github.com/user-attachments/assets/9a4f52dc-ccbb-4cb8-9fc9-f895f474205d"  width="350"  >
+<img src="https://github.com/user-attachments/assets/99d6f4bd-da72-4230-86d7-be76eb19b4af"  width="350"  >
+
 </p>
 
 
