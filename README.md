@@ -1,5 +1,5 @@
 A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-friendly solution tailored for restaurant staff to manage orders and streamline operations. Here's a detailed description:
-[Screenshots] (https://github.com/tarikmsr/lapiete_flutter_web/blob/main/README.md#screenshots)
+[Screenshots] (https://github.com/tarikmsr/pos_server/edit/main/README.md#screenshots)
 # Key Features
 
  **1- Order Management:**
