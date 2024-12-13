@@ -107,7 +107,7 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 
 
 # Caisse administartion
-[Watch the demo video](https://drive.google.com/file/d/1zP5hl1HBvZE8q6hQ41i8lIDLZyh2xTUs/view?usp=drive_link)
+[Watch the demo video](https://drive.google.com/file/d/1zP5hl1HBvZE8q6hQ41i8lIDLZyh2xTUs/view?usp=sharing)
 
 
 
