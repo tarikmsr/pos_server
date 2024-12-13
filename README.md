@@ -2,7 +2,8 @@
 A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-friendly solution tailored for restaurant staff to manage orders and streamline operations. Here's a detailed description:
 
 # Key Features
- **1- Order Management:*
+
+ **1- Order Management:**
 
    - Allows waiters to take orders directly on their mobile devices or tablets.
    - Supports modifying or updating orders in real time.
