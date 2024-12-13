@@ -1,37 +1,30 @@
 A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-friendly solution tailored for restaurant staff to manage orders and streamline operations. Here's a detailed description:
-[Screenshots] (https://github.com/tarikmsr/pos_server/edit/main/README.md#screenshots)
 # Key Features
 
  **1- Order Management:**
-
    - Allows waiters to take orders directly on their mobile devices or tablets.
    - Supports modifying or updating orders in real time.
    
 **2- Menu Integration:**
-
   - Provides a digital menu with categories, dish descriptions, and images.
   - Highlights special offers and recommended items.
 
 **3- Cart (Panier) System:**
-
    - Lets waiters add multiple menu items to a cart for each table or chair.
    - Items in the cart include details like quantity, price, and special instructions.
    - Supports editing (e.g., modifying quantity, removing items) and viewing total price.
    - Allows submitting finalized orders to the kitchen or saving them for later modification.
 
 **4- Order Tracking:**
-
   - Tracks order status (e.g., preparing, ready for serving).
   - Real-time updates from the kitchen or barman.
 
 **5- Payment Handling:**
-   
    - Supports multiple payment methods (cash, card).
    - Generates and sends digital receipts to customers.
     
 **6- Daily Statistics:**
-   
-   - Waiters can view daily statistics, such as the number of orders served, total sales, and tips collected.
+      - Waiters can view daily statistics, such as the number of orders served, total sales, and tips collected.
    - Provides an overview to track individual performance.
 
 **7- Super Admin Controls:**
@@ -42,7 +35,6 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
       - Hide Statistics: Prevents certain roles (e.g., waiters) from accessing daily statistics.
 
 **8- Offline Functionality:**
-  
   - Ensures basic operations (e.g., taking orders) can be performed without an internet connection.
   - Syncs data automatically when back online.
 
@@ -52,7 +44,6 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 **10- Staff Profiles:**
   - Provides login for individual waiters to manage their tables and orders.
   - Tracks staff sales contributions.
-
 
 ## Screenshots
 
