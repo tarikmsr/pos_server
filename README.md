@@ -77,9 +77,9 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 **3- Cart (Panier) System:**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/da5bae76-9314-495a-8b72-c30e3cc6999c"  width="350"  >
-<img src="https://github.com/user-attachments/assets/affff866-18a2-4030-a30c-38d4bbe5d7d1"  width="350"  >
-<img src="https://github.com/user-attachments/assets/03c0d227-6ca5-49c9-8845-3c5761d825c8"  width="350"  >
+<img src="https://github.com/user-attachments/assets/da5bae76-9314-495a-8b72-c30e3cc6999c"  width="250"  >
+<img src="https://github.com/user-attachments/assets/affff866-18a2-4030-a30c-38d4bbe5d7d1"  width="250"  >
+<img src="https://github.com/user-attachments/assets/03c0d227-6ca5-49c9-8845-3c5761d825c8"  width="250"  >
 
 </p>
 
@@ -110,9 +110,9 @@ A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-
 **10- Staff authentification:**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b5b4b36b-40e9-42db-8235-007cb945c622"  width="350"  >
-<img src="https://github.com/user-attachments/assets/9a4f52dc-ccbb-4cb8-9fc9-f895f474205d"  width="350"  >
-<img src="https://github.com/user-attachments/assets/99d6f4bd-da72-4230-86d7-be76eb19b4af"  width="350"  >
+<img src="https://github.com/user-attachments/assets/b5b4b36b-40e9-42db-8235-007cb945c622"  width="250"  >
+<img src="https://github.com/user-attachments/assets/9a4f52dc-ccbb-4cb8-9fc9-f895f474205d"  width="250"  >
+<img src="https://github.com/user-attachments/assets/99d6f4bd-da72-4230-86d7-be76eb19b4af"  width="250"  >
 
 </p>
 
