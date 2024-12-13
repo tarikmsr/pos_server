@@ -1,4 +1,3 @@
-![Screenshot_2024-03-04-16-37-48-864_com sodev fastfood](https://github.com/user-attachments/assets/69ec1026-c35b-48ee-9d23-58fbfe9f29a5)# pos_server
 A Point of Sale (POS) app for waiters developed in Flutter, efficient, and user-friendly solution tailored for restaurant staff to manage orders and streamline operations. Here's a detailed description:
 
 # Key Features
